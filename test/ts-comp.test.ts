@@ -1,4 +1,4 @@
-import DummyClass from '../src/ts-comp'
+import DummyClass from '../src/component-template'
 
 /**
  * Dummy test
